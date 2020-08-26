@@ -1,6 +1,6 @@
 
 <div>
-    <a href="https://github.com/MatanelAbayof/6-Colors"><img src="https://raw.githubusercontent.com/MatanelAbayof/6-Colors/master/oop2_ex4/textures/colors.png" title="Bomberman" alt="Bomberman"></a>
+    <a href="https://github.com/MatanelAbayof/Bomberman"><img src="https://raw.githubusercontent.com/MatanelAbayof/Bomberman/master/oop_project/oop_project/images/bomberman-icon.png" title="Bomberman" alt="Bomberman"></a>
 </div>
 
 <div>
@@ -23,7 +23,7 @@ This project uses [SFML library](https://www.sfml-dev.org/download/sfml/2.5.1/).
 
 ## Preview
 <div>
-    <img src="https://github.com/MatanelAbayof/6-Colors/raw/master/screenshots/gameplay.gif" alt="Preview">
+    <img src="https://raw.githubusercontent.com/MatanelAbayof/Bomberman/master/screenshots/gameplay.gif" alt="Preview">
 </div>
 
 ## Running the application
