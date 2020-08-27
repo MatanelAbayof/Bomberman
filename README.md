@@ -16,7 +16,9 @@
 
 
 ## Introduction
-Bomberman is a strategic, maze-based video game
+Bomberman is a strategic, maze-based video game.
+
+For levels editor, [click here](https://github.com/MatanelAbayof/Bomberman-Level-Editor)
 
 This project uses [SFML library](https://www.sfml-dev.org/download/sfml/2.5.1/).
 
